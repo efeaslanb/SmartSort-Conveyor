@@ -1,3 +1,5 @@
+# Automated Conveyor Sorting System  
+
 An Arduino-based conveyor that detects and sorts objects over 3 cm using an ultrasonic sensor, stepper motor, and micro servo. Built with low-cost materials and DFA principles for simple assembly.  
 
 **Development:**  
