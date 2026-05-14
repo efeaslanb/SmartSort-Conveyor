@@ -16,5 +16,3 @@ An Arduino-based conveyor that detects and sorts objects over 3 cm using an ultr
 
 **Learning:**  
 Gained hands-on experience integrating sensors, motors, and power systems. Next version will use a SolidWorks-designed frame, soldered wiring, and a stronger motor/battery setup.  
-
-👉🏼 Check out my [Portfolio](https://your-portfolio-link.com) for the full project details.
